@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "InGame_Chat_AI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
